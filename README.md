@@ -5,6 +5,10 @@ An organized repo for all things TensorFlow: tutorials, notes, and models.
 1. dummy_tutorial with tf==0.0.0
 
 ## Models
+#### Please read model_standards.ipynb to understand implementation guidelines
+
+---
+
 1. model_a with tf==0.0.0
   * Notes: (yes/no)
   * Paper Link: [arxiv demo link ](https://arxiv.org/)
