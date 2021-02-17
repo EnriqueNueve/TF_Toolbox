@@ -10,7 +10,7 @@
 
 ## Data
 * Download data from [https://www.kaggle.com/zalando-research/fashionmnist](https://www.kaggle.com/zalando-research/fashionmnist)
-* Will only use the files train.csv and test.csv
+* Will only use the files train.csv and test.csv from download
 
 ---
 
