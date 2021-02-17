@@ -1,0 +1,6 @@
+pandas==1.1.5
+numpy==1.19.5
+tensorflow==2.4.1
+tensorflow_probability==0.12.1
+sklearn==0.24.1
+matplotlib==3.3.4
