@@ -9,13 +9,7 @@ An organized repo for all things TensorFlow: tutorials, notes, and models.
   * Notes: (yes/no)
   * Paper Link: [arxiv demo link ](https://arxiv.org/)
   * Additional Resources: (yes/no)
-  * State: (
-  ```diff
-   + stable
-  ```,
-            ```diff
-            - not stable
-            ```
-            )
+  * State: (stable, not stable)
+
 ---
 
