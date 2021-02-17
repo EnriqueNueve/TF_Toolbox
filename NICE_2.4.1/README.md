@@ -21,7 +21,7 @@ to-do
 ---
 
 ## Notes
-* to-do
+* NICE_formulas.pdf: shows how to calculate loss, foward pass, and inverse pass.
 
 ---
 
