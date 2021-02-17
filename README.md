@@ -1,5 +1,5 @@
 # TF_Toolbox
-An organized repo for all things TensorFlow: tutorials for TF, notes, and models. 
+An organized repo for all things TensorFlow: tutorials, notes, and models. 
 
 ## Tutorials 
 1. dummy_tutorial with tf==0.0.0
