@@ -4,13 +4,12 @@
 ---
 
 ## Paper Link
-[https://arxiv.org/pdf/1312.6114.pdf ](https://arxiv.org/pdf/1312.6114.pdf)
+[https://arxiv.org/pdf/1312.6114.pdf](https://arxiv.org/pdf/1312.6114.pdf)
 
 ---
 
 ## Data
-The data is gathered from ...
-
+Download data from [https://www.kaggle.com/zalando-research/fashionmnist](https://www.kaggle.com/zalando-research/fashionmnist)
 ---
 
 ## Notes
