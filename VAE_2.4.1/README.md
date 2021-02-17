@@ -26,13 +26,12 @@
 ---
 
 ## Notes
-The notes give info on ...
+* elbo_notes.pdf: shows derivation for evidence-lower bound loss for VAE
 
 ---
 
 ## Aditional Resources:
-* a
-* b
+* [Blog](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html) overviewing differnt AutoEncoders 
 
 ---
 
