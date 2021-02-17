@@ -25,4 +25,6 @@ The notes give info on ...
 ---
 
 ## Model declaration and parameters
-
+```Python
+print('Hi')
+```
