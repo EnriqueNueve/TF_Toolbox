@@ -3,6 +3,17 @@
 
 ---
 
+## Folder tree 
+```bash
+.
+├── data
+│   ├── test.csv
+│   └── train.csv
+└── vae.ipynb
+```
+
+---
+
 ## Paper Link
 [https://arxiv.org/pdf/1312.6114.pdf](https://arxiv.org/pdf/1312.6114.pdf)
 
