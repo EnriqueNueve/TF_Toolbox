@@ -1,9 +1,10 @@
 # VAE with tf==2.4.1
-### Stable: Yes
+## Stable: Yes
 
 ---
 
 ## Paper Link
+[https://arxiv.org/pdf/1312.6114.pdf ](https://arxiv.org/pdf/1312.6114.pdf)
 
 ---
 
