@@ -31,3 +31,11 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 
 ---
 
+1. NICE with tf==2.4.1
+  * Notes: yes
+  * Paper Link: [https://arxiv.org/abs/1410.8516 ](https://arxiv.org/abs/1410.8516)
+  * Additional Resources: yes
+  * State: stable
+
+---
+
