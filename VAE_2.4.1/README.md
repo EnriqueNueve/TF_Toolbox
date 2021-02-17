@@ -31,7 +31,7 @@
 ---
 
 ## Aditional Resources:
-* [Blog](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html) overviewing differnt AutoEncoders 
+* [Blog](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html) overviewing different AutoEncoders 
 
 ---
 
