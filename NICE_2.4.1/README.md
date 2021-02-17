@@ -5,7 +5,11 @@
 
 ## Folder tree 
 ```bash
-to-do
+.
+├── NICE.ipynb
+├── Notes\ NICE_formulas.pdf
+├── mnist_784.csv
+└── nice_weights.h5
 ```
 
 ---
@@ -16,7 +20,7 @@ to-do
 ---
 
 ## Data
-* Data is collected from sklearn.datasets
+* Data is collected from [https://www.kaggle.com/scolianni/mnistasjpg](https://www.kaggle.com/scolianni/mnistasjpg)
 
 ---
 
