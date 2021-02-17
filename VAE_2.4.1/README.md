@@ -37,6 +37,9 @@ The notes give info on ...
 ---
 
 ## Model declaration and parameters
+* codings_size(int): gives dimension of latent space
 ```Python
-print('Hi')
+model = VAE(codings_size=20)
+model.compile(optimizer="rmsprop")
+history = model.fit(X_train, X_train, epochs=25, batch_size=128,validation_data=(X_valid, X_valid))
 ```
