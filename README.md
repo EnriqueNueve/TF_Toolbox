@@ -13,7 +13,7 @@ An organized repo for all things TensorFlow: tutorials, notes, and models.
 
 ---
 
-2. VAE with tf==2.4.0
+2. VAE with tf==2.4.1
   * Notes: yes
   * Paper Link: [https://arxiv.org/pdf/1312.6114.pdf ](https://arxiv.org/pdf/1312.6114.pdf)
   * Additional Resources: yes
