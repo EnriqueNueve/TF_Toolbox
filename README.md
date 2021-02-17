@@ -10,4 +10,4 @@ An organized repo for all things TensorFlow: tutorials for TF, notes, and models
   * Paper Link: [arxiv demo link ]("https://arxiv.org/")
   * Additional Resources: (yes/no)
   * State: (<span style="color:blue">stable *green* text</span>, <span style="color:red">not stable *green* text</span>)
---------------------------------------------------------------------------
+---
