@@ -10,6 +10,7 @@
 
 ## Data
 Download data from [https://www.kaggle.com/zalando-research/fashionmnist](https://www.kaggle.com/zalando-research/fashionmnist)
+
 ---
 
 ## Notes
