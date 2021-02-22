@@ -1,6 +1,16 @@
 # TF_Toolbox
 An organized repo for all things TensorFlow: tutorials, data, and models. 
 
+## Steps to implement a model
+---
+1. Implement custom functions.
+2. Implement custom layers to store custom functions, if possible.
+3. Implement custom model that joins custom functions and layers.
+
+![GitHub Logo](/images/steps_implement_diagram.png)
+
+---
+
 ## Tutorials 
 ---
 
