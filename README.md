@@ -59,3 +59,11 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 
 ---
 
+4. CVAE with tf==2.4.1
+  * Notes: yes
+  * Paper Link: [https://proceedings.neurips.cc/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf](https://proceedings.neurips.cc/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf)
+  * Additional Resources: no
+  * State: stable
+
+---
+
