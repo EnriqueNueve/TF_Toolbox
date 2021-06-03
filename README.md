@@ -67,3 +67,19 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 
 ---
 
+5. MemAE with tf==2.4.1
+  * Notes: yes
+  * Paper Link: [https://arxiv.org/abs/1904.02639](https://arxiv.org/abs/1904.02639)
+  * Additional Resources: no
+  * State: stable
+
+---
+
+6. TransformerBlock with tf==2.5.0
+  * Notes: yes
+  * Paper Link: [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
+  * Additional Resources: yes
+  * State: stable
+
+---
+
