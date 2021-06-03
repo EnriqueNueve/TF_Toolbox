@@ -7,7 +7,7 @@
 ## Folder tree 
 ```bash
 .
-├── TransformerBlock.ipynb
+├── TransformerExample.ipynb
 ├── stock_data.csv
 └── transformer_notes.pdf
 ```
