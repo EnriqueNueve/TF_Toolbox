@@ -83,3 +83,9 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 
 ---
 
+7. IRMAE with tf==2.5.0
+  * Notes: yes
+  * Paper Link: [https://arxiv.org/abs/2010.00679](https://arxiv.org/abs/2010.00679)
+  * Additional Resources: no
+  * State: stable
+
