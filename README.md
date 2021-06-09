@@ -6,6 +6,9 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 1. Implement custom functions.
 2. Implement custom layers to store custom functions, if possible.
 3. Implement custom model that joins custom functions and layers.
+4. Test pass of random data and check dimensionality. 
+5. Train model on one piece of data and make sure it learns.
+6. Test on all training data.  
 
 ![GitHub Logo](/images/steps_implement_diagram.png)
 
