@@ -92,3 +92,19 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
   * Additional Resources: no
   * State: stable
 
+---
+
+8. Mixup with tf==2.5.0
+  * Notes: no
+  * Paper Link: [https://arxiv.org/abs/1710.09412](https://arxiv.org/abs/1710.09412)
+  * Additional Resources: no
+  * State: stable
+
+
+---
+
+9. AudioClassDemo with tf==2.5.0
+  * Notes: no
+  * Paper Link: no
+  * Additional Resources: no
+  * State: stable
