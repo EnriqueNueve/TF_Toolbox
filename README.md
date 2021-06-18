@@ -1,6 +1,10 @@
 # TF_Toolbox
 An organized repo for all things TensorFlow: tutorials, data, and models. 
 
+## Resourcess
+---
+1. Tensorflow Prob: https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow
+
 ## Steps to implement a model
 ---
 1. Implement custom functions.
