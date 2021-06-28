@@ -6,6 +6,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 1. Tensorflow Prob: https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow
 2. Einops: https://github.com/arogozhnikov/einops
 3. Debugging book: https://www.debuggingbook.org/
+4. CNN visualization callbacks: https://github.com/sicara/tf-explain
 
 ## Steps to implement a model
 ---
