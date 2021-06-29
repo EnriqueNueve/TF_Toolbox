@@ -1,7 +1,12 @@
 # TF_Toolbox
 An organized repo for all things TensorFlow: tutorials, data, and models. 
 
-## Resourcess
+## Tutorials
+---
+1. Transformers: https://www.youtube.com/watch?v=XSSTuhyAmnI
+
+
+## Code Resources
 ---
 1. Tensorflow Prob: https://github.com/mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow
 2. Einops: https://github.com/arogozhnikov/einops
