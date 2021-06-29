@@ -31,11 +31,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 ## Tutorials 
 ---
 
-0. dummy_tutorial with tf==0.0.0
-
----
-
-1. data_prep with tf==2.4.1 ~ IN_PROGRESS
+0. tfRecord demo with tf==2.4.1
 
 ---
 
