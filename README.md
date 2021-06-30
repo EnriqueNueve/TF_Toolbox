@@ -1,7 +1,7 @@
 # TF_Toolbox
 An organized repo for all things TensorFlow: tutorials, data, and models. 
 
-## Tutorials
+## Lectures
 ---
 1. Transformers: https://www.youtube.com/watch?v=XSSTuhyAmnI
 2. Some intro to advance math topics: https://www.youtube.com/c/FacultyofKhan/playlists
@@ -33,6 +33,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 ---
 
 0. tfRecord demo with tf==2.4.1
+1. einsum demo 
 
 ---
 
