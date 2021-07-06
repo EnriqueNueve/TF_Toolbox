@@ -15,6 +15,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 4. CNN visualization callbacks: https://github.com/sicara/tf-explain
 5. Seq2Seq learning in tf2: https://github.com/OpenNMT/OpenNMT-tf
 6. Quantization library for keras in TensorFlow: https://github.com/google/qkeras
+7. Tensorflow addons: https://github.com/tensorflow/addons
 
 ## Steps to implement a model
 ---
