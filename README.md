@@ -16,6 +16,8 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 5. Seq2Seq learning in tf2: https://github.com/OpenNMT/OpenNMT-tf
 6. Quantization library for keras in TensorFlow: https://github.com/google/qkeras
 7. Tensorflow addons: https://github.com/tensorflow/addons
+8. Torch2RT: https://github.com/NVIDIA-AI-IOT/torch2trt
+9. Zero to Mastery TensorFlow for Deep Learning: https://dev.mrdbourke.com/tensorflow-deep-learning/
 
 ## Steps to implement a model
 ---
