@@ -19,6 +19,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 8. Torch2RT: https://github.com/NVIDIA-AI-IOT/torch2trt
 9. Zero to Mastery TensorFlow for Deep Learning: https://dev.mrdbourke.com/tensorflow-deep-learning/
 10. Keras-flops: https://pypi.org/project/keras-flops/
+11. Numerical methods in Python: https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 
 ## Steps to implement a model
 ---
