@@ -21,6 +21,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 10. Keras-flops: https://pypi.org/project/keras-flops/
 11. Numerical methods in Python: https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 12. TF ML Production course: https://blog.tensorflow.org/2021/06/mlep-courses.html
+13. Domain generalization: https://github.com/facebookresearch/DomainBed
 
 ## Steps to implement a model
 ---
