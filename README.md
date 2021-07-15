@@ -23,6 +23,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 12. TF ML Production course: https://blog.tensorflow.org/2021/06/mlep-courses.html
 13. Domain generalization: https://github.com/facebookresearch/DomainBed
 14. Tensorflow garden: https://github.com/tensorflow/models
+15. GLOM: https://github.com/Rishit-dagli/GLOM-TensorFlow
 
 ## Steps to implement a model
 ---
