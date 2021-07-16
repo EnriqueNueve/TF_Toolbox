@@ -24,6 +24,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 13. Domain generalization: https://github.com/facebookresearch/DomainBed
 14. Tensorflow garden: https://github.com/tensorflow/models
 15. GLOM: https://github.com/Rishit-dagli/GLOM-TensorFlow
+16. DL Forecasting tools: https://github.com/AIStream-Peelout/flow-forecast
 
 ## Steps to implement a model
 ---
