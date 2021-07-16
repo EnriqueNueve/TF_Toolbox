@@ -175,3 +175,48 @@ def createTF_Example(X,y):
         'y': _int64_feature(y),
         }
     return tf.train.Example(features=tf.train.Features(feature=feature))
+
+##############################
+
+def parse_tfrecord(example):
+    ''' It is strange you need to use tf.string to read in an image '''
+    feature_description = {
+        "rows": tf.io.FixedLenFeature([], tf.int64),
+        "cols": tf.io.FixedLenFeature([], tf.int64),
+        "depth": tf.io.FixedLenFeature([], tf.int64),
+        "spec": tf.io.FixedLenFeature([], tf.string),
+        "y": tf.io.FixedLenFeature([], tf.int64),
+    }
+    example = tf.io.parse_single_example(example, feature_description)
+
+    X = tf.io.decode_raw(
+        example['spec'], out_type='float32', little_endian=True, fixed_length=None, name=None
+    )
+
+    rows = example['rows']
+    cols = example['cols']
+    depth = example['depth']
+    X = tf.reshape(X, (rows,cols,depth))
+    y = example["y"]
+    y_hot = tf.one_hot(y, 10)
+    return (X, y_hot)
+
+##############################
+
+def get_dataset(record_files,AUTO):
+    """ Loads tfRecord files
+    Parameters
+    ----------
+    record_files : str or list of str
+        paths of tfRecord files
+    Returns
+    -------
+    tf.data.Dataset
+        data loader for keras model
+    """
+    dataset = tf.data.TFRecordDataset(record_files, buffer_size=10000)
+    dataset = (
+        dataset.map(parse_tfrecord, num_parallel_calls=AUTO).cache().shuffle(10000)
+    )
+    dataset = dataset.prefetch(AUTO)
+    return dataset
