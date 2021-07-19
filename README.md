@@ -25,6 +25,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 14. Tensorflow garden: https://github.com/tensorflow/models
 15. GLOM: https://github.com/Rishit-dagli/GLOM-TensorFlow
 16. DL Forecasting tools: https://github.com/AIStream-Peelout/flow-forecast
+17. TensorBoard: https://www.tensorflow.org/tensorboard
 
 ## Steps to implement a model
 ---
