@@ -5,6 +5,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 ---
 1. Transformers: https://www.youtube.com/watch?v=XSSTuhyAmnI
 2. Some intro to advance math topics: https://www.youtube.com/c/FacultyofKhan/playlists
+3. Linear Algebra for ML: https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
 
 
 ## Code Resources
