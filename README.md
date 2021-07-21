@@ -28,6 +28,10 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 16. DL Forecasting tools: https://github.com/AIStream-Peelout/flow-forecast
 17. TensorBoard: https://www.tensorflow.org/tensorboard
 
+## Build principles
+* Make a simple version first and iterate
+* Draw out path of outcomes and consequences 
+
 ## Steps to implement a model
 ---
 1. Implement custom functions.
