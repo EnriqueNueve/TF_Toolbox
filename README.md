@@ -44,6 +44,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 32. Tensor Hub: https://www.tensorflow.org/hub
 33. tf.py_function: https://www.tensorflow.org/api_docs/python/tf/py_function
 34. Distill: https://distill.pub/
+35. AiSummer: https://theaisummer.com/
 
 ## Build principles
 * Make a simple version first and iterate
