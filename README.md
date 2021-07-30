@@ -29,6 +29,8 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 17. TensorBoard: https://www.tensorflow.org/tensorboard
 18. Tensorflow Best Practice Twitter: https://twitter.com/tfbestpractices?lang=en
 19. Speech recognition: https://github.com/cosmoquester/speech-recognition
+20. Generative models: https://github.com/an-seunghwan/generative
+21. GCN example: https://github.com/kerighan/simple-gcn
 
 ## Build principles
 * Make a simple version first and iterate
