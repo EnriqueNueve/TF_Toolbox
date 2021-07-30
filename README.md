@@ -27,6 +27,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 15. GLOM: https://github.com/Rishit-dagli/GLOM-TensorFlow
 16. DL Forecasting tools: https://github.com/AIStream-Peelout/flow-forecast
 17. TensorBoard: https://www.tensorflow.org/tensorboard
+18. Tensorflow Best Practice Twitter: https://twitter.com/tfbestpractices?lang=en
 
 ## Build principles
 * Make a simple version first and iterate
