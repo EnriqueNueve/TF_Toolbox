@@ -34,6 +34,10 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 22. Efficient-CapsNet: https://github.com/EscVM/Efficient-CapsNet
 23. Retinanet: https://github.com/srihari-humbarwadi/retinanet-tensorflow2.x
 24. YoloV4: https://github.com/taipingeric/yolo-v4-tf.keras
+25. Gpu Monitor: https://github.com/sicara/gpumonitor
+26. Normalizing Flow Reference: https://github.com/bgroenks96/normalizing-flows
+27. GrapGallery: https://github.com/EdisonLeeeee/graphgallery
+28. SingleShot: https://github.com/srihari-humbarwadi/ssd_tensorflow
 
 ## Build principles
 * Make a simple version first and iterate
