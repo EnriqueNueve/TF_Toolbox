@@ -39,6 +39,9 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 27. GrapGallery: https://github.com/EdisonLeeeee/graphgallery
 28. SingleShot: https://github.com/srihari-humbarwadi/ssd_tensorflow
 29. YOLOACT: https://github.com/leohsuofnthu/Tensorflow-YOLACT
+30. Yolo orignal: https://github.com/LoveHRTF/YouOnlyLookOnce-TF2.0
+31. Fairness indicators: https://github.com/tensorflow/fairness-indicators
+32. Tensor Hub: https://www.tensorflow.org/hub
 
 ## Build principles
 * Make a simple version first and iterate
