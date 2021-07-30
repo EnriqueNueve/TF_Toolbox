@@ -38,6 +38,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 26. Normalizing Flow Reference: https://github.com/bgroenks96/normalizing-flows
 27. GrapGallery: https://github.com/EdisonLeeeee/graphgallery
 28. SingleShot: https://github.com/srihari-humbarwadi/ssd_tensorflow
+29. YOLOACT: https://github.com/leohsuofnthu/Tensorflow-YOLACT
 
 ## Build principles
 * Make a simple version first and iterate
