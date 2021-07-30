@@ -32,6 +32,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 20. Generative models: https://github.com/an-seunghwan/generative
 21. GCN example: https://github.com/kerighan/simple-gcn
 22. Efficient-CapsNet: https://github.com/EscVM/Efficient-CapsNet
+23. Retinanet: https://github.com/srihari-humbarwadi/retinanet-tensorflow2.x
 
 ## Build principles
 * Make a simple version first and iterate
