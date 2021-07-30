@@ -45,6 +45,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 33. tf.py_function: https://www.tensorflow.org/api_docs/python/tf/py_function
 34. Distill: https://distill.pub/
 35. AiSummer: https://theaisummer.com/
+36. Unit test in TF: https://theaisummer.com/unit-test-deep-learning/
 
 ## Build principles
 * Make a simple version first and iterate
