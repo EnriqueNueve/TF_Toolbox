@@ -47,6 +47,7 @@ An organized repo for all things TensorFlow: tutorials, data, and models.
 35. AiSummer: https://theaisummer.com/
 36. Unit test in TF: https://theaisummer.com/unit-test-deep-learning/
 37. A bunch of NLP Layers: https://github.com/tensorflow/models/tree/master/official/nlp/modeling/layers
+38. Outlier toolbox: https://github.com/SeldonIO/alibi-detect
 
 ## Build principles
 * Make a simple version first and iterate
